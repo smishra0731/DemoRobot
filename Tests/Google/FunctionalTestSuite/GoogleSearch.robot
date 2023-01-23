@@ -4,7 +4,7 @@ Library  SeleniumLibrary
 *** Variables ***
 ${input_search}    name:q
 ${baseUrl}    https://www.google.com
-${browserName}    chrome
+${browserName}    headlesschrome
 
 *** Test Cases ***
 This is sample test case

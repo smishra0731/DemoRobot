@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+# Exclude all log files
+.html
+.py
+.xml
+.idea
